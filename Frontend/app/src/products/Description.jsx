@@ -16,6 +16,7 @@ const Description = () => {
     dispatch(fetchdes(id));
   }, [id, dispatch]);
   const handleAddCart = () => {
+    // console.log(desData, 'from description <---')
     var t = JSON.parse(localStorage.getItem("Account"));
     if (t)
     {

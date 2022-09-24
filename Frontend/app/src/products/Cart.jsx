@@ -107,9 +107,11 @@ const Cart = () => {
   const [cross, setcross] = useState(false)
   const [view, setView] = useState(false)
   const [cartdata, setCartdata] = useState([])
+
   const allCartdata = useSelector((state) => state.cartdata);
   const totalprice = useSelector((state) => state.totalprice);
   console.log(cartdata, totalprice);
+  
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
