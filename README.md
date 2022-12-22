@@ -79,10 +79,3 @@ As we never really stop learning, This was our 2nd project using react and 1st w
 - building custom filters
 - Using style components for better styling experience
 
-## Contributors
-
-- [@Ritik Bhardwaj](https://github.com/ribhar)
-- [@Mayur Shinde](https://github.com/mayur-ms-2310)
-- [@Shubham Paswan](https://github.com/spaswan141)
-- [@Satyajeetn Sahoo](https://github.com/SatsAjeet)
-- [@Md Shahbaj Alam](https://github.com/mdshahbajalam7)
